@@ -2,10 +2,10 @@
 This app aims to simulate a British-like university, with both the academic and business sides of things incorporated into the simulation.
 
 ## Build Instructions
-1. Install Visual Studio (if you haven't done so already)
-2. Download the repository
-3. Double-click the .sln file
-4. Go to "Build" - "Build Solution"
+* Prerequisites: Microsoft Visual Studio with MFC toolkit
+1. Download the repository
+2. Double-click the .sln file
+3. Go to "Build" - "Build Solution"
 
 ## Documentation
 TODO: Write detailed documentation for the app
