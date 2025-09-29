@@ -1,0 +1,17 @@
+﻿  pch.cpp
+  UniversitySimulator.cpp
+  UniversitySimulatorDlg.cpp
+C:\Users\qwerty\Documents\UniversitySimulator\UniversitySimulator\University.h(162,46): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+C:\Users\qwerty\Documents\UniversitySimulator\UniversitySimulator\University.h(246,43): warning C4244: “return”: 从“double”转换到“__int64”，可能丢失数据
+C:\Users\qwerty\Documents\UniversitySimulator\UniversitySimulator\University.h(278,79): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\qwerty\Documents\UniversitySimulator\UniversitySimulator\University.h(359,21): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\qwerty\Documents\UniversitySimulator\UniversitySimulator\University.h(556,17): warning C4244: “=”: 从“double”转换到“__int64”，可能丢失数据
+C:\Users\qwerty\Documents\UniversitySimulator\UniversitySimulator\University.h(565,18): warning C4244: “初始化”: 从“double”转换到“__int64”，可能丢失数据
+C:\Users\qwerty\Documents\UniversitySimulator\UniversitySimulator\University.h(735,26): warning C4244: “初始化”: 从“double”转换到“__int64”，可能丢失数据
+C:\Users\qwerty\Documents\UniversitySimulator\UniversitySimulator\University.h(748,1): warning C4244: “*=”: 从“double”转换到“__int64”，可能丢失数据
+C:\Users\qwerty\Documents\UniversitySimulator\UniversitySimulator\University.h(788,49): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\qwerty\Documents\UniversitySimulator\UniversitySimulator\University.h(815,80): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\qwerty\Documents\UniversitySimulator\UniversitySimulator\University.h(822,80): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\qwerty\Documents\UniversitySimulator\UniversitySimulator\UniversitySimulatorDlg.cpp(114,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  正在生成代码...
+  UniversitySimulator.vcxproj -> C:\Users\qwerty\Documents\UniversitySimulator\Debug\UniversitySimulator.exe
