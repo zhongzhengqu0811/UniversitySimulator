@@ -602,7 +602,7 @@ public:
 	void endOfAcademicYear()
 	{
 		// Inflate in-game currency
-		inflation *= 1.015 + 0.01 * rand() / RAND_MAX;
+		//inflation *= 1.015 + 0.01 * rand() / RAND_MAX;
 		// Handle graduations and withdrawals (remove those students)
 		vector<Student> copy = students;
 		students.clear();
@@ -830,3 +830,4 @@ public:
 };
 
 #endif // UNIVERSITY_H_
+
